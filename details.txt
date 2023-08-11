@@ -1,0 +1,2 @@
+This would theoritcally be a database that stores user information,
+it used to store my password and information to use but I will not show that on git publicly.
